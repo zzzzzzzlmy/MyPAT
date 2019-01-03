@@ -19,7 +19,7 @@ yi san wu
 int main()
 {
   int sum=0;
-	int i;
+  int i;
   char ch,s[4];                                              
   char b[10][5]={"ling", "yi", "er", "san", "si", "wu", "liu", "qi", "ba", "jiu"};
   while ((ch = getchar()) != '\n')
